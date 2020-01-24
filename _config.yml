@@ -6,8 +6,6 @@ description: > # Meta description of Homepage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://legendru.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-remote_theme: janczizikow/sleek
-
 # SEO PLUGIN
 social:
   name: Your Name
